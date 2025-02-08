@@ -38,4 +38,3 @@ messageInput.addEventListener("keydown", (e) =>{
 
 sendMessageButton.addEventListener("click", (e) => handleOutgoingMessage(e))
 
-// continue here in next day
